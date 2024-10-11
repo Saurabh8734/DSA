@@ -1,2 +1,2 @@
 # DSA
-Practice Problems solving
+Practice Problems
